@@ -15,7 +15,7 @@ Source:		http://prdownloads.sourceforge.net/s3tools/s3cmd-%{version}.tar.gz
 BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 BuildArch:	noarch
 
-BuildRequires:	python
+BuildRequires:	libpython-devel
 Requires:	python
 
 %description
