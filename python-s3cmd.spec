@@ -2,7 +2,7 @@
 
 Name:		python-%{oname}
 Version:	1.0.1
-Release:	1
+Release:	2
 Summary:	Command line tool for managing Amazon S3 and CloudFront services
 Group:		Networking/File transfer
 License:	GPLv2
