@@ -6,7 +6,7 @@ Release:	2
 Summary:	Command line tool for managing Amazon S3 and CloudFront services
 Group:		Networking/File transfer
 License:	GPLv2
-URL:		http://s3tools.org/s3cmd
+URL:		https://s3tools.org/s3cmd
 Source:		http://prdownloads.sourceforge.net/s3tools/s3cmd-%{version}.tar.gz
 BuildArch:	noarch
 BuildRequires:	python-devel
